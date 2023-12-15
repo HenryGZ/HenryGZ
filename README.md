@@ -23,7 +23,7 @@
  
 <div align="center">
   <br>
-  <p align="center"><h2 style="color: green;">currently studying</h2></p>
+  <p align="center"><h2>currently studying</h2></p>
 
   <!-- Ícones aqui... -->
   ![.NET Core](https://img.shields.io/badge/-.NET%20Core-0D1117?style=for-the-badge&logo=.net&labelColor=4CAF50)&nbsp;
