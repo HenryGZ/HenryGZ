@@ -18,10 +18,16 @@
 <a href="https://www.linkedin.com/in/henry-goes-zanin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
- ### Estudando Atualmente:
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-0D1117?style=for-the-badge&logo=.net&labelColor=4CAF50)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=4CAF50)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=4CAF50)&nbsp;
+<div align="center">
+  <br>
+  <p align="center"><h2>Estudando Atualmente</h2></p>
+
+  <!-- Ícones aqui... -->
+  ![.NET Core](https://img.shields.io/badge/-.NET%20Core-0D1117?style=for-the-badge&logo=.net&labelColor=4CAF50)&nbsp;
+  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=4CAF50)&nbsp;
+  ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=4CAF50)&nbsp;
+  <br>
+  </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
