@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=4CAF50)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=4CAF50)&nbsp;
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6571cce55145316d25ced0cc?variant=dark" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6571cce55145316d25ced0cc?variant=dark)](https://roadmap.sh)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
