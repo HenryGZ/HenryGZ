@@ -1,41 +1,53 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=header"/>
+<h2 align="left">Hi! My name is Henry and I'm a student of information systems at UEMG-Passos, a university in the state of Minas Gerais, Brazil.</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4CAF50&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henry;I'm+21+years+old;I'm+from+Brazil;I'm+a+Student+of+Information+Systems+at+UEMG;Be+Welcome!+:%60)](https://git.io/typing-svg)
-
-
-[![Henry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenryGZ&bg_color=0d1117&color=4CAF50&line=4CAF50&point=64DD17&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=HenryGZ&theme=green&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HenryGZ&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=4CAF50&text_color=FFFFFF&bg_color=0d1117" alt="Henry's github stats" /> 
-</div>
+###
 
 <div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryGZ&layout=compact&hide=Makefile&hide_border=true&title_color=4CAF50&text_color=4CAF50&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HenryGZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HenryGZ&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=90" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenryGZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div align="center"> 
-<a href="https://www.linkedin.com/in/henry-goes-zanin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
-<div align="center">
-  <br>
-  <p align="center"><h2>Currently studying</h2></p>
+###
 
-  <!-- Ícones aqui... -->
-  ![.NET Core](https://img.shields.io/badge/-.NET%20Core-0D1117?style=for-the-badge&logo=.net&labelColor=4CAF50)&nbsp;
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=4CAF50)&nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=4CAF50)&nbsp;
-  <br>
-  </div>
+<img align="right" height="150" src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif"  />
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HenryGZ}/count.svg" /></p> 
-<br>
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer"/>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/HenryGZ/HenryGZ/output/snake.svg" alt="Snake animation" />
+
+###
